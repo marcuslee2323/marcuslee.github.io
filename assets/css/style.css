@@ -851,6 +851,15 @@ section {
   padding: 30px;
   background: #fff;
   width: 100%;
+  height: 375px;
+  box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+}
+
+.contact .infomap{
+  padding: 30px;
+  background: #fff;
+  width: 535px;
+  height: 375px;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
 
